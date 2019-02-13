@@ -1,0 +1,20 @@
+h1
+{
+font-family:times new roman;
+font-size:30px;
+color:green;
+}
+
+h2.redtext
+{
+font-family:times new roman;
+font-size:40px;
+color:red;
+}
+
+#blue
+{
+font-family:algerian;
+font-size:50px;
+color:blue;
+}
